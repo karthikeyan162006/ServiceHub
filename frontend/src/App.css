@@ -1,0 +1,6 @@
+/* App.css — replaced Vite defaults with full-bleed layout */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
